@@ -1,0 +1,7 @@
+body {
+	margin: 0;
+	padding: 0;
+	color-scheme: light dark;
+	color: rgba(255, 255, 255, 0.87);
+	background: linear-gradient(to right bottom, #24243e, #302b63, #0f0c29);
+}
